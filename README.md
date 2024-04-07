@@ -1,5 +1,4 @@
 ### Welcome to my Github profile, my name is João Vitor Gonçalves. 👋🏼
-
 My social networks to follow me or for more information.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovpgoncalves/)
@@ -19,5 +18,3 @@ My social networks to follow me or for more information.
 </div><br/>
 
 I believe that technology was created to make people's lives easier, and with my knowledge that's what I try to do every day.
-
-- My contact email: joaovp.goncalvesss@gmail.com
