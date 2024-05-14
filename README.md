@@ -7,7 +7,7 @@ My social networks to follow me or for more information.
 ![Goncalves GitHub stats](https://github-readme-stats.vercel.app/api?username=odevgoncalves&show_icons=true&theme=dark&title_color=C0C0C0&text_color=C0C0C0&icon_color=ffa500&border_color=FFFFFF&bg_color=000000&locale=en)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odevgoncalves&show_icons=true&theme=dark&title_color=C0C0C0&text_color=C0C0C0&icon_color=ffa500&border_color=FFFFFF&bg_color=000000&locale=en)](https://github.com/odevgoncalves/github-readme-stats)
 
-### Technologies I am currently studying
+### Technologies I work with
 
 <div style="display: inline_block">
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
