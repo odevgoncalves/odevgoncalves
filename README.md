@@ -12,8 +12,3 @@
 
 ![Goncalves GitHub stats](https://github-readme-stats.vercel.app/api?username=odevgoncalves&show_icons=true&theme=dark&title_color=C0C0C0&text_color=C0C0C0&icon_color=ffa500&border_color=FFFFFF&bg_color=000000&locale=en)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odevgoncalves&show_icons=true&theme=dark&title_color=C0C0C0&text_color=C0C0C0&icon_color=ffa500&border_color=FFFFFF&bg_color=000000&locale=en)
-
-### My social networks
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovpgoncalves/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovpgoncalves/)
